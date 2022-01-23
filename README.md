@@ -1,2 +1,2 @@
-# bloklarla-al-ma
-bloklarla çalışma ödevi
+# bloklarla  calısma 
+bloklarla calimsa ödevi
